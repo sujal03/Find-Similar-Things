@@ -1,0 +1,7 @@
+langchain
+streamlit
+cohere
+tiktoken
+python-dotenv
+faiss-cpu
+langchain-cohere
